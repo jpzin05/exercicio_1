@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+font-family: arial, sans-serif;
+}
+
+.container{
+    background-color: black;
+    color: white;
+    border: 5px solid rgb(48, 97, 160);
+
+}
+
+#div{
+    background-color: rgb(28, 122, 211);
+    margin: 10px;
+    padding: 10px;
+    text-align:center;
+    border-radius: 20px
+}
+
+img{
+border-radius: 50%;
+}
+
+#link{
+    text-decoration: none;
+    color:white;
+    background-color:red
+}
